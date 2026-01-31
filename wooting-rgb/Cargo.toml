@@ -12,5 +12,5 @@ categories = ["api-bindings", "games"]
 
 [dependencies]
 lazy_static = "1"
-thiserror = "1"
+thiserror = "2"
 wooting-rgb-sys = { version = "0.3", path = "../wooting-rgb-sys" }
